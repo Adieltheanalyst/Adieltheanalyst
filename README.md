@@ -22,7 +22,7 @@ What You'll Find Here:
 🌐 Connect With Me:
 
 LinkedIn: https://www.linkedin.com/in/adiel-maina/
-Website/Blog: https://adieltheanalyst.github.io/
+Website/Portfolio: https://adieltheanalyst.github.io/
 Email: adielngugi@gmail.com
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about data and analytics!
 <!---
