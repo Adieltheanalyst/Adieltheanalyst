@@ -1,12 +1,19 @@
 👋 Hello! I'm Adiel, a passionate data analyst with a background in Economics and Statistics. I specialize in leveraging data-driven insights to drive informed decision-making and solve complex business challenges.
 
 Skills & Expertise:
+
 Programming Languages: Python
+
 Database Management: SQL
+
 Data Visualization: Tableau, Power BI
+
 Data Analysis Tools: Excel, Jupyter Notebooks
+
 Statistical Analysis: Regression Analysis, Hypothesis Testing
+
 Econometrics: Time Series Analysis, Panel Data Analysis
+
 What You'll Find Here:
 📊 Data Analysis Projects: Explore my portfolio of projects covering various domains, from economics and finance to healthcare and marketing. Each project demonstrates my analytical skills, from data preprocessing and exploratory data analysis to visualization and interpretation of results.
 
